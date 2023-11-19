@@ -57,7 +57,7 @@
                                     "key_code": "spacebar",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_shift"
+                                            "left_option"
                                         ]
                                     }
                                 },
