@@ -36,7 +36,7 @@
                                     "key_code": "non_us_backslash",
                                     "modifiers": {
                                         "mandatory": [
-                                            "command"
+                                            "option"
                                         ]
                                     }
                                 },
@@ -78,8 +78,8 @@
                                     "key_code": "spacebar",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_command",
-                                            "left_shift"
+                                            "command",
+                                            "shift"
                                         ]
                                     }
                                 },
@@ -95,8 +95,8 @@
                                     "key_code": "backslash",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_command",
-                                            "left_shift"
+                                            "command",
+                                            "shift"
                                         ]
                                     }
                                 },
@@ -112,8 +112,8 @@
                                     "key_code": "semicolon",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_command",
-                                            "left_shift"
+                                            "command",
+                                            "shift"
                                         ]
                                     }
                                 },
@@ -129,8 +129,8 @@
                                     "key_code": "8",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_command",
-                                            "left_shift"
+                                            "command",
+                                            "shift"
                                         ]
                                     }
                                 },
@@ -146,8 +146,8 @@
                                     "key_code": "8",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_command",
-                                            "left_shift"
+                                            "command",
+                                            "shift"
                                         ]
                                     }
                                 },
@@ -163,8 +163,8 @@
                                     "key_code": "k",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_command",
-                                            "left_shift"
+                                            "command",
+                                            "shift"
                                         ]
                                     }
                                 },
@@ -180,8 +180,8 @@
                                     "key_code": "quote",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_command",
-                                            "left_shift"
+                                            "command",
+                                            "shift"
                                         ]
                                     }
                                 },
@@ -197,8 +197,8 @@
                                     "key_code": "7",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_command",
-                                            "left_shift"
+                                            "command",
+                                            "shift"
                                         ]
                                     }
                                 },
@@ -214,8 +214,8 @@
                                     "key_code": "return_or_enter",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_command",
-                                            "left_shift"
+                                            "command",
+                                            "shift"
                                         ]
                                     }
                                 },
